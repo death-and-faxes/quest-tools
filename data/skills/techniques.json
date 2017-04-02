@@ -1,0 +1,194 @@
+[
+  {
+    "key": "b_seiton_plasma_armor",
+    "name": "Seiton: Plasma Armor",
+    "difficulty_rank": "b",
+    "range": "self",
+    "natures": ["star"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "By compressing the standard chakra cloak into a denser and harder form, the user gains a much better (although not impenetrable) defense against physical and chakra-based attacks, an increase to the destructive power of their own physical attacks, and a slight increase to speed and strength. This technique can be performed reflexively, and does not require hand seals."
+  },
+  {
+    "key": "c_seiton_chains",
+    "name": "Seiton: Chains",
+    "difficulty_rank": "c",
+    "range": "mid",
+    "natures": ["star"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user shapes chakra into a thin coil, which can then be used to trap and entangle an opponent. These chains immediately dissipate if focus is lost. This technique can be performed reflexively, and does not require hand seals."
+  },
+  {
+    "key": "c_seiton_impact",
+    "name": "Seiton: Impact",
+    "difficulty_rank": "c",
+    "range": "self",
+    "natures": ["star"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "By controlling the composition and density of their chakra cloak, the user can emit localized explosions upon physical contact, including from any weapons they might be holding. This technique can be performed reflexively, and does not require hand seals."
+  },
+  {
+    "key": "c_doton_mole",
+    "name": "Doton: Hiding Like a Mole Technique",
+    "difficulty_rank": "c",
+    "range": "self",
+    "natures": ["earth"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "Allows the user to hide underground. Like a... gopher, or prairie dog, or something."
+  },
+  {
+    "key": "c_doton_spears",
+    "name": "Doton: Earthen Rising Spears",
+    "difficulty_rank": "c",
+    "range": "mid",
+    "natures": ["earth"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": " Spears of stone rise from the ground to skewer the target."
+  },
+  {
+    "key": "c_fuuton_great_breakthrough",
+    "name": "Fuuton: Great Breakthrough",
+    "difficulty_rank": "c",
+    "range": "mid",
+    "natures": ["wind"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "A simple technique that creates a powerful gust of wind. It has the power to blow over trees, and can be combined with projectile weapons for an even deadlier assault."
+  },
+  {
+    "key": "c_fuuton_wind_explosion",
+    "name": "Fuuton: Wind Explosion",
+    "difficulty_rank": "c",
+    "range": "short",
+    "natures": ["wind"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "With correct application of chakra, you can cause an explosion of air at your position. This can be used to disperse incoming projectiles, as well as disorient or even injure nearby opponents."
+  },
+  {
+    "key": "c_katon_dragon_fire",
+    "name": "Katon: Dragon Fire",
+    "difficulty_rank": "c",
+    "range": "mid",
+    "natures": ["fire"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user breathes a stream of fire from their mouth. Prolonged exposure can melt rock."
+  },
+  {
+    "key": "c_suiton_water_whip",
+    "name": "Suiton: Water Whip",
+    "difficulty_rank": "c",
+    "range": "mid",
+    "natures": ["water"],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user shapes water into a controllable whip, which can be used to entangle, bludgeon, or drown opponents. It also notably conducts any lightning-based jutsu. The whip retains its shape for some time after focus is lost, making this technique difficult to interrupt."
+  },
+  {
+    "key": "c_illusion_false_surroundings",
+    "name": "Demonic Illusion: False Surroundings Technique",
+    "difficulty_rank": "c",
+    "range": "location",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "A genjutsu that can be used to disguise a location as another. The technique is attached to a location rather than a specific opponent, and affects any who enter that location. It can last without upkeep for hours to days depending on the caster's skill. This technique must be prepared ahead of time."
+  },
+
+  {
+    "key": "d_doton_shuriken",
+    "name": "Doton: Shuriken",
+    "difficulty_rank": "d",
+    "range": "long",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "Fire a small earthen projectile, either from available earth or created by the user's own chakra. Comparable to a kunai in size and effect, and remains after it hits or misses its target."
+  },
+  {
+    "key": "d_doton_trembling_earth",
+    "name": "Doton: Trembling Earth",
+    "difficulty_rank": "d",
+    "range": "medium",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user channels chakra through the earth, agitating it and making it difficult to find footing in a small area."
+  },
+  {
+    "key": "d_fuuton_air_bullet",
+    "name": "Fuuton: Air Bullet",
+    "difficulty_rank": "d",
+    "range": "long",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user fires a single ball of compressed air, which lands with enough force to heavily injure an unprotected opponent."
+  },
+  {
+    "key": "d_illusion_viewing",
+    "name": "Demonic Illusion: Hell Viewing Technique",
+    "difficulty_rank": "d",
+    "range": "short",
+    "natures": [],
+    "parent_skills": ["genjutsu"],
+    "xp_basis": 2,
+    "desc": "A simple visual genjutsu that can alter or hinder the visual perception of the target. The specific image shown is often chosen to be shocking or disorienting."
+  },
+  {
+    "key": "d_seiton_cloak",
+    "name": "Seiton: Cloak",
+    "difficulty_rank": "d",
+    "range": "self",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The most basic of Seiton techniques. The user coats themselves in a chakra cloak composed of star chakra, conferring very minor protection from incoming attacks, and a very minor boost to their physical attacks."
+  },
+  {
+    "key": "d_seiton_needle",
+    "name": "Seiton: Needle",
+    "difficulty_rank": "d",
+    "range": "long",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user fires a single needle of compressed chakra, comparable to a kunai in size and effect. This technique can be performed reflexively, and does not require hand seals."
+  },
+
+  {
+    "key": "e_replacement",
+    "name": "Body Replacement Technique",
+    "difficulty_rank": "e",
+    "range": "self",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user swaps positions with a nearby object of similar mass. This technique may be done reflexively without hand-seals; however, the target of the replacement must be chosen beforehand."
+  },
+  {
+    "key": "e_clone",
+    "name": "Clone Technique",
+    "difficulty_rank": "e",
+    "range": "self",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user produces a number of intangible illusionary clones. The clones cannot attack, but can provide useful distraction in a fight."
+  },
+  {
+    "key": "e_transformation",
+    "name": "Transformation Technique",
+    "difficulty_rank": "e",
+    "range": "self",
+    "natures": [],
+    "parent_skills": ["ninjutsu"],
+    "xp_basis": 2,
+    "desc": "The user assumes the appearance of another person, animal, or inanimate object of roughly the same size. This requires constant emission of chakra to maintain and can therefore not be used in combat, and can be easily detected by most ninja."
+  }
+]

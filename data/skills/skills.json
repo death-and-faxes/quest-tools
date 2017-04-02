@@ -1,0 +1,38 @@
+[
+  {
+    "key": "taijutsu",
+    "name": "Taijutsu",
+    "xp_basis": 8,
+    "desc": ""
+  },
+  {
+    "key": "ninjutsu",
+    "name": "Ninjutsu",
+    "xp_basis": 8,
+    "desc": ""
+  },
+  {
+    "key": "genjutsu",
+    "name": "Genjutsu",
+    "xp_basis": 8,
+    "desc": ""
+  },
+  {
+    "key": "stealth",
+    "name": "Stealth",
+    "xp_basis": 8,
+    "desc": ""
+  },
+  {
+    "key": "ranged_weapons",
+    "name": "Ranged Weapons",
+    "xp_basis": 8,
+    "desc": ""
+  },
+  {
+    "key": "chk_control",
+    "name": "Chakra Control",
+    "xp_basis": 8,
+    "desc": ""
+  }
+]

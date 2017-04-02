@@ -1,0 +1,128 @@
+{
+  "name": "Mitsui Kana",
+  "fluff": "Age: 8(.5)",
+  "attr_xp_mult": 0.75,
+  "skill_xp_mult": 0.75,
+  "tech_xp_mult": 0.75,
+  "affinities": {
+    "wind": 0,
+    "earth": 0
+  },
+  "attributes": {
+    "str": {"base": 12, "mod": 0, "xp": 0},
+    "agi": {"base": 12, "mod": 3, "xp": 0},
+    "con": {"base": 12, "mod": 0, "xp": 0},
+    "chk": {"base": 12, "mod": 2, "xp": 0},
+    "per": {"base": 10, "mod": 2, "xp": 0},
+    "int": {"base": 12, "mod": 0, "xp": 0}
+  },
+  "skills": [
+    {
+      "key": "taijutsu",
+      "rank": 15,
+      "xp": 0
+    },
+    {
+      "key": "ninjutsu",
+      "rank": 15,
+      "xp": 0
+    },
+    {
+      "key": "genjutsu",
+      "rank": 15,
+      "xp": 0
+    },
+    {
+      "key": "ranged_weapons",
+      "rank": 15,
+      "xp": 0
+    },
+    {
+      "key": "stealth",
+      "rank": 15,
+      "xp": 0
+    },
+    {
+      "key": "chk_control",
+      "rank": 15,
+      "xp": 0
+    }
+  ],
+  "techniques": [
+    {
+      "key": "b_seiton_plasma_armor",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "c_doton_mole",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "c_seiton_chains",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "c_seiton_impact",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_doton_trembling_earth",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_fuuton_air_bullet",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_illusion_viewing",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_seiton_cloak",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_seiton_needle",
+      "rank": 4,
+      "xp": 0
+    },
+
+    {
+      "key": "e_replacement",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "e_clone",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "e_transformation",
+      "rank": 4,
+      "xp": 0
+    }
+  ],
+  "traits": [
+    {
+      "name": "Technically Still a Kid",
+      "desc": "As an eight-year-old, your physical development is still a work in progress. You're generally still a great deal weaker and slower than a similarly-trained adult. (-2 to base strength, agility, constitution, and chakra capacity)"
+    },
+    {
+      "name": "Perfect Vessel",
+      "desc": "You appear to have won the genetic lottery: you have an almost unbelievable level of natural physical ability! Your strength, agility, and stamina are all noticeably better than your peers'. There will certainly be no downsides to this. (+4 to base strength, agility, constitution, and chakra capacity, -25% XP to improve attributes from conditioning.)"
+    },
+    {
+      "name": "Prodigy",
+      "desc": "You pick up new techniques and concepts with preternatural ease. (+2 base intelligence, -25% XP to gain new skill and technique ranks.)"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Azuma Ikki",
+  "fluff": "Age: 10",
+  "attr_xp_mult": 1,
+  "skill_xp_mult": 0.9,
+  "tech_xp_mult": 0.75,
+  "affinities": {
+    "wind": 0,
+    "fire": -2,
+    "earth": -2
+  },
+  "attributes": {
+    "str": {"base": 8, "mod": 0, "xp": 0},
+    "agi": {"base": 9, "mod": 2, "xp": 0},
+    "con": {"base": 7, "mod": 0, "xp": 0},
+    "chk": {"base": 9, "mod": 0, "xp": 0},
+    "per": {"base": 10, "mod": 3, "xp": 0},
+    "int": {"base": 12, "mod": 2, "xp": 0}
+  },
+  "skills": [
+    {
+      "key": "taijutsu",
+      "rank": 11,
+      "xp": 0
+    },
+    {
+      "key": "ninjutsu",
+      "rank": 13,
+      "xp": 0
+    },
+    {
+      "key": "genjutsu",
+      "rank": 11,
+      "xp": 0
+    },
+    {
+      "key": "ranged_weapons",
+      "rank": 12,
+      "xp": 0
+    },
+    {
+      "key": "stealth",
+      "rank": 11,
+      "xp": 0
+    },
+    {
+      "key": "chk_control",
+      "rank": 11,
+      "xp": 0
+    }
+  ],
+  "techniques": [
+    {
+      "key": "c_fuuton_great_breakthrough",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_fuuton_air_bullet",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_doton_trembling_earth",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "d_illusion_viewing",
+      "rank": 4,
+      "xp": 0
+    },
+
+    {
+      "key": "e_replacement",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "e_clone",
+      "rank": 4,
+      "xp": 0
+    },
+    {
+      "key": "e_transformation",
+      "rank": 4,
+      "xp": 0
+    }
+  ],
+  "traits": [
+    {
+      "name": "Child",
+      "desc": "(-2 to base strength, agility, constitution, and chakra capacity)"
+    },
+    {
+      "name": "Pretty Talented I Guess",
+      "desc": "Ikki might have been hailed as the prodigy of his generation in a world where you didn't exist. Unfortunately (or maybe fortunately) for him, you do. (+1 base intelligence, -10% XP to gain new skill ranks, -25% XP to gain new technique ranks.)"
+    },
+    {
+      "name": "Smarter than the Average Clan",
+      "desc": "The Azuma are known for their shrewdness and intellect both on the battlefield and off. Whether this is a case of nature or nurture has yet to be seen. (+1 base intelligence)"
+    }
+  ]
+}
