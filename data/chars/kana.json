@@ -1,6 +1,7 @@
 {
   "name": "Mitsui Kana",
   "fluff": "Age: 8(.5)",
+  "unused_xp": 1,
   "attr_xp_mult": 0.75,
   "skill_xp_mult": 0.75,
   "tech_xp_mult": 0.75,
@@ -24,7 +25,7 @@
     },
     {
       "key": "ninjutsu",
-      "rank": 15,
+      "rank": 16,
       "xp": 0
     },
     {
@@ -40,11 +41,11 @@
     {
       "key": "stealth",
       "rank": 15,
-      "xp": 0
+      "xp": 1
     },
     {
       "key": "chk_control",
-      "rank": 15,
+      "rank": 16,
       "xp": 0
     }
   ],
@@ -123,6 +124,10 @@
     {
       "name": "Prodigy",
       "desc": "You pick up new techniques and concepts with preternatural ease. (+2 base intelligence, -25% XP to gain new skill and technique ranks.)"
+    },
+    {
+      "name": "Kekkei genkai: Seiton",
+      "desc": "Your clan is known for their distinctive kekkei genkai, granting the ability to use “star-natured” chakra, which can be used to produce semi-solid chakra constructs. These range in complexity from a simple chakra cloak, to hand-held weapons, extremely durable ropes and bindings, and ranged energy attacks. (provides access to Seiton jutsu)"
     }
   ]
 }

@@ -271,6 +271,11 @@
     "\n"
     (get character "fluff")
     "\n\n"
+    (when-let [unused-xp (get character "unused_xp")]
+      (str
+        (bbcode/b "Unused XP: ")
+        unused-xp
+        "\n\n"))
     (bbcode/b "Nature Affinities")
     (bbcode/article
       ""
